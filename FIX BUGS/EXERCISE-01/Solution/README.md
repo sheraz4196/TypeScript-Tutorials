@@ -1,5 +1,7 @@
 # Solution
 
+### Concept Taught: Basic Types
+
 ### Line 1
 
 ```typescript
