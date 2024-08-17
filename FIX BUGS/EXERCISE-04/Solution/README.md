@@ -12,6 +12,8 @@ function logMessage(message: string, toUpperCase?: boolean = "true") {
     console.log(message.toLowerCase());
   }
 }
+
+logMessage("Hello World", false);
 ```
 
 We have two errors:
